@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function* rootSaga() {}","map":{"version":3,"sources":["C:/Users/lu4ok/Desktop/Practice/DZ/nextjs-app/redux/sagas/index.js"],"names":["rootSaga"],"mappings":"AAAA,eAAe,UAAUA,QAAV,GAAqB,CAAE","sourcesContent":["export default function* rootSaga() {}\r\n"]},"metadata":{},"sourceType":"module"}
